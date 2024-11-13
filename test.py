@@ -1,5 +1,5 @@
 # Define variables
-name = "Tom"
+name = "Novak"
 
 # Define function
 def hello_user(usenamername):
